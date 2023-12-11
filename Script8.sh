@@ -27,5 +27,3 @@ then
 else
  echo "None of the condition met"
 fi
-
-echo "We are testing git practical"
